@@ -1,0 +1,14 @@
+streamlit
+pymongo
+groq
+pypdf
+openai
+langchain
+langchain-community
+langchain-pinecone
+langchain_groq
+langchain_openai
+python-dotenv
+pinecone-client
+langchain_pinecone
+unstructured[pdf]
